@@ -1,5 +1,5 @@
 <?php
-	define('EMAIL','shailesh@happaround.me');
-	define('PASS','Shailesh@123');
+	define('EMAIL','from_mail@mail.com');
+	define('PASS','123456');
 	define('COMPANY','Company Email');
 ?>
